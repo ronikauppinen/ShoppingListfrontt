@@ -25,7 +25,7 @@ function App() {
     }
     
     if (results < 0) {
-      let results = 0;
+      results = 0;
     }
     setResults(results);
   }
